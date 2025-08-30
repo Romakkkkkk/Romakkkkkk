@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Roman</h1>
+<h1 align="center">Hi there 👋, I'm Roman </h1><br>
 <h3 align="center">A passionate fullstack developer from Russia, with love <3 </h3>
 
 - 🔭 I’m currently working on [Car Leasing Website](https://github.com/Romakkkkkk/TarekZuabiINCDemo)
