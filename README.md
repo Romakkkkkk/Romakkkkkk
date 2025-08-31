@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi there 👋, I'm Roman </h1><br>
-<h2 align="center">A passionate fullstack developer from Russia, with love <3 </h2>
+<h1 align="center">Hi there 👋, I'm Roman (like the empire)</h1><br>
+<h3 align="center">A passionate fullstack developer from Russia, with love <3 </h3>
 
-- 🔭 I’m currently working on [Car Leasing Website](https://github.com/Romakkkkkk/TarekZuabiINCDemo)
+- 🔭 I’m currently working on the groundbraking [Car Leasing Website](https://github.com/Romakkkkkk/TarekZuabiINCDemo)
 
-- 🌱 I’m currently learning **react, express.js,rust**
+- 🌱 I’m willing to conquer **react, express.js,rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Romakkkkkk/](https://github.com/Romakkkkkk/)
 
-- 📫 How to reach me **roman1.stihin@gmail.com**
+- 📫 You can reach me through **roman1.stihin@gmail.com**
 
 - ⚡ Fun fact **Интересный факт**
 
