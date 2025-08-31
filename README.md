@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Car Leasing Website](https://github.com/Romakkkkkk/TarekZuabiINCDemo)
 
-- 🌱 I’m willing to conquer **react, express.js,rust** 🫡
+- 🌱 I’m willing to conquer **react, express.js, and rust** 🫡
 
 - 👨‍💻 All of my projects are available at [https://github.com/Romakkkkkk/](https://github.com/Romakkkkkk/)
 
