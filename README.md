@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Roman (like the empire)</h1><br>
-<h3 align="center">A passionate fullstack developer from Russia, with love <3 </h3>
+<h3 align="center">A passionate fullstack developer from Russia, with love <3 </h3><br>
 
 - 🔭 I’m currently working on the groundbraking [Car Leasing Website](https://github.com/Romakkkkkk/TarekZuabiINCDemo)
 
