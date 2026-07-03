@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact! **Интересный факт** 😊
 
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=Romakkkkkk)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Romakkkkkk)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
