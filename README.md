@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Roman (like the empire)</h1>
 <h3 align="center">A passionate fullstack developer based in Montréal<3 </h3><br>
 
-- 🔭 I’m currently working on [Car Leasing Website](https://github.com/Romakkkkkk/gesture-stage)
+- 🔭 I’m currently working on [gesture stage](https://github.com/Romakkkkkk/gesture-stage)
 
 - 🌱 I’m willing to conquer **react, express.js, and rust** 🫡
 
