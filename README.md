@@ -10,7 +10,7 @@
 
 - 📫 You can reach me through **roman1.stihin@gmail.com**
 
-- 🌎 My motto: Life is like 𝚊̶ ̶𝚋̶𝚘̶𝚡̶ ̶𝚘̶𝚏̶ ̶𝚌̶𝚑̶𝚘̶𝚌̶𝚘̶𝚕̶𝚊̶𝚝̶𝚎̶𝚜̶ quicksort, always know when to pivott
+- 🌎 My motto: Life is like 𝚊̶ ̶𝚋̶𝚘̶𝚡̶ ̶𝚘̶𝚏̶ ̶𝚌̶𝚑̶𝚘̶𝚌̶𝚘̶𝚕̶𝚊̶𝚝̶𝚎̶𝚜̶ quicksort, always know when to pivot
 
 - ⚡ Fun fact! **Интересный факт** 😊
 
